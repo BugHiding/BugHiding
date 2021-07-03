@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BugHiding
+- 👀 I’m interested in React
+- 🌱 I’m currently learning FP
+- 💞️ I’m looking to collaborate on BugHiding
+- 📫 How to reach me 609228186@qq.com
